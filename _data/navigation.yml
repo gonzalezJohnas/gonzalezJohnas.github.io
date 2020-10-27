@@ -4,10 +4,4 @@ main:
     url:  /About/
   - title: "Research"
     url: /research/
-  - title: "Projects"
-     url: /projects/
-  - title: "Work"
-     url: /work/
-  - title: "Education"
-     url: /education/
   

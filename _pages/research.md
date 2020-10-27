@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: collection
-permalink: /publications/
+permalink: /research/
 collection: publications
 sort_order: reverse
 classes: wide

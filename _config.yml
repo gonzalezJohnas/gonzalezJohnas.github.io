@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Work"
-      icon: "fas fa-fw fa-suitcase"
+      icon: "fas fa-suitcase"
       url: "https://www.iit.it/people/jonas-gonzalez"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -114,8 +114,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gonzalezJohnas/"
-   - label: "Linkedin"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jonas-gonzalez-billandon/"
 
 # Site Footer

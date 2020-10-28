@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonas Gonzalez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jonas.jpg"
   bio              : "PhD Student at Italian Institute of Technology (IIT) "
   location         : "Genoa Italy"
   email            : "jonas.gonzalez@iit.it"

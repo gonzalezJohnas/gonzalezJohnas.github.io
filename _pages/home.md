@@ -10,7 +10,7 @@ feature_row_1:
   - image_path: /assets/images/ICRA.png
     title: "Self-supervised learning for faces detection  with the iCub "
     excerpt: "Audiovisual cognitive architecture "
-    url: "/publications/ICRA_2020"
+    url: "/publications/icra_2020"
     btn_class: "btn--info"
     btn_label: "Read More"
 

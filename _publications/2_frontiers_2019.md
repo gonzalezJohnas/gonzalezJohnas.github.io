@@ -1,13 +1,13 @@
 ---
 title: "Can a robot catch you lying ? A machine learning system to detect lies during interactions"
-pub_id: 1
+pub_id: 2
 layout: single
 ---
 
 **J. Gonzalez-Billandon**, A. Aroyo, A. Tonelli, D. Pasquali, A. Sciutti, M. Gori, G. Sandini, F.Rea
 <img width="25%" src="../../assets/images/frontiers_logo.png">
 
-*31 July 2019*
+*31 July 2019 - Frontiers in Robotics and AI Journal*
 
 [Full Paper Available](https://www.frontiersin.org/articles/10.3389/frobt.2019.00064/full)
 

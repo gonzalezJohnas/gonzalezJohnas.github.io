@@ -13,7 +13,7 @@ Python, C++, Scala, Java, Javascript, C
 ***Machine Learning*** <br>
 Keras, TensorFlow, PyTorch, scikit-learn
 ***Data science*** <br>
-pandas, numpy, pyspark, matplotlib, 
+pandas, numpy, PySpark, matplotlib, 
 
 ***Big data***
 Elastic search, Hadoop, Apache Spark, MongoDB, MySQL

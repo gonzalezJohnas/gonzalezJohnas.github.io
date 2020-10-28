@@ -10,10 +10,10 @@ classes: wide
 
 *April 2017 - Current*<br>
 Robotics & AI<br>
-**Topic**: Developmental, Cognitive robotics <br>
-**Tutors**: Pr. Giulio Sandini, Dr. Alessandra Sciuytti, Dr. Francesco Rea 
+**Topic**: Developmental/Cognitive robotics <br>
+**Tutors**: Pr. Giulio Sandini, Dr. Alessandra Sciutti and Dr. Francesco Rea 
 
-I am working on integrating bio-inspired processes such as attention along with deep learning algorithms to perform self-supervised learning with the iCub robot.
+I am working on integrating bio-inspired processes such as attention along with deep learning algorithms to perform self-supervised learning with the iCub robot. I developed several framework for self-supervised learning of faces, objects and sound localisation.
 
 #### Programming language
  C++, Python

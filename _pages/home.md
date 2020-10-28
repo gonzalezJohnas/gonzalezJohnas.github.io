@@ -14,6 +14,16 @@ feature_row_1:
     btn_class: "btn--info"
     btn_label: "Read More"
 
+feature_row_2:
+  - image_path: /assets/images/icdl_teaser.png
+    title: "Self-supervised transfer learning for objects detection with a Humanoid Robot"
+    excerpt: "Visual attention, Active vision "
+    url: "/publications/icdl_2020"
+    btn_class: "btn--info"
+    btn_label: "Read More"
+
+
 ---
 
 {% include feature_row  id="feature_row_1" type="left" %}
+{% include feature_row  id="feature_row_2" type="left" %}

@@ -6,7 +6,7 @@ layout: single
 
  A. Aroyo, A., **J. Gonzalez-Billandon**, Tonelli A.,  A. Sciutti, M. Gori, G. Sandini, F.Rea
  
-<img width="25%" src="../../assets/images/humanoids.jpeg">
+<img width="25%" src="../assets/images/humanoids.jpeg">
 
 *15 November 2018 - 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids 2018)*
 

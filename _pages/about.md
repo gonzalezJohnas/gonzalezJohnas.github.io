@@ -39,21 +39,21 @@ Selenium, ViewJS, Flask
 ---
 
 ### More about me
-I am a franco colombian men of 27th years old, passioante to recreate the human intelligence with robots or computers I complete complementary academic degrees that gives me knowedge in diverse tecnicals areas. 
+I am a franco Colombian men of 27th years old, passionate to recreate human intelligence with robots or computers I complete complementary academic degrees that give me knowledge in diverse technical areas. 
 
 ### Computer science ###
-I complete a Bachelor in computer science and signal analysis where I learn the fundamentals of computers and how to develop softwares following good practices such as desing patterns and management tecnique as AGILE. 
+I complete a Bachelor in computer science and signal analysis where I learned the fundamentals of computers and how to develop software following good practices such as design patterns and management techniques as AGILE. 
 
 ### Machine learning, Data Science ###
-I followed my academic path with a Master degree in artificial intelligence where I learned different skills to develop intelligent software and how to integrate and scale them to real problems. 
+I followed my academic path with a Master's degree in artificial intelligence where I learned different skills to develop intelligent software and how to integrate and scale them to real problems. 
 
 
 #### Research Interests
-I am passioned by machine learning and how we could build general intelligent system. I am doing research in developmental robotics where I tried to develop computational framework integrating bio-inspired processes along with machine learning. My goal is to design architectures for the iCub robot to perform self-supervised learning in task as objects, face detection or sound localisation. 
+I am passionate by machine learning and how we could build general intelligent systems. I am doing research in developmental robotics where I tried to develop computational frameworks integrating bio-inspired processes along with machine learning. My goal is to design architectures for the iCub robot to perform self-supervised learning in tasks as objects, face detection or sound localisation. 
 
 
 ---
 
 ### Interests and Activities
-I like to learn new things thats why I am playing both piano and guitar in autoditact. I also deticate part of my free time to magic and mentalist.  
+I like to learn new things that's why I am playing both piano and guitar in autodidact. I also dedicate part of my free time to magic and mentalist.  
  

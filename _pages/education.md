@@ -36,6 +36,6 @@ I study how to write software to develop using artificial intelligence algorithm
 
 With High Honors - September 2014
 
-I study the fundamentals of Computer science to develop a professional skills to develop sfotwares fron their administration to their conception and deployement.
+I study the fundamentals of Computer science to develop a professional skills to develop software from their administration to their conception and deployment.
 
 ---

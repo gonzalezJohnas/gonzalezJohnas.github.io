@@ -6,4 +6,6 @@ main:
     url: /research/
   - title: "Work"
     url: /work/
+  - title: "Education"
+    url: /education/
   

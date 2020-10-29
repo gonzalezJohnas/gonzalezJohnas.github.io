@@ -10,15 +10,17 @@ classes: wide
 Python, C++, Scala, Java, Javascript, C
 
 **Libraries & Frameworks** <br>
+
 ***Machine Learning*** <br>
 Keras, TensorFlow, PyTorch, scikit-learn
+
 ***Data science*** <br>
 pandas, numpy, PySpark, matplotlib, 
 
-***Big data***
+***Big data*** <br>
 Elastic search, Hadoop, Apache Spark, MongoDB, MySQL
 
-***Robotics***
+***Robotics*** <br>
 YARP, ROS, Gazebo, OpenCV
 
 ***Web***

@@ -4,27 +4,30 @@ permalink: /about/
 classes: wide
 ---
 
-### Computer science Skills
+# Computer science Skills
 
-**Programming Languages** <br>
+### Programming Languages 
 Python, C++, Scala, Java, Javascript, C
 
-**Libraries & Frameworks** <br>
+## Libraries & Frameworks 
 
-***Machine Learning*** <br>
-Keras, TensorFlow, PyTorch, scikit-learn
+### Machine Learning 
+***Keras, TensorFlow, PyTorch, scikit-learn***
 
-***Data science*** <br>
-pandas, numpy, PySpark, matplotlib, 
+### Data science 
+***pandas, numpy, PySpark, matplotlib*** 
 
-***Big data*** <br>
-Elastic search, Hadoop, Apache Spark, MongoDB, MySQL
+### Big data  
+***Elastic search, Hadoop, Apache Spark, MongoDB, MySQL***
 
-***Robotics*** <br>
-YARP, ROS, Gazebo, OpenCV
 
-***Web***
-Selenium, ViewJS, Flask
+
+### Robotics 
+
+***YARP, ROS, Gazebo, OpenCV*** 
+
+### Web
+***Selenium, ViewJS, Flask***
 
 
 

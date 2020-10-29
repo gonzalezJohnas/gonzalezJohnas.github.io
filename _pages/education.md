@@ -6,7 +6,7 @@ classes: wide
 
 
 ### Master Thesis in Artificial Intelligence
-<img width="15%" style="float: right;" src="../assets/images/university_of_Bristol_logo.png">
+<img width="17%" style="float: right;" src="../assets/images/university_of_Bristol_logo.png">
 
 **Computer Science / Mathematic Faculty**
 
@@ -18,10 +18,10 @@ I did my thesis at the University of Bristol for six months where I worked on a 
 ---
 
 ### Master Degree in Artificial Intelligence
-<img width="12%" style="float: right;" src="../assets/images/toulouse_logo.jpg">
+<img width="18%" style="float: right;" src="../assets/images/toulouse_logo.jpg">
 
 **Computer Science / Mathematic Faculty**
-
+ 
 With Honors - September 2016
 
 I study how to write software to develop using artificial intelligence algorithms such Machine Learning, symbolic AI or multi-agent systems. I learned how to apply artificial intelligence to real problems addressing  strategic decision-making and augment business performance.

@@ -38,7 +38,7 @@ MongoDB, MySQL, Tensorflow, Celery
 --- 
 
 ### Computer vision engineer 
-<img width="15%" style="float: right;" src="../assets/images/gleeph.png">
+<img width="8%" style="float: right;" src="../assets/images/gleeph.png">
 
 *August 2015 - October 2015*<br>
 I developed a prototype to recreate a virtual bookshelf from a bookshelf image taken with a smartphone.  I worked on a computer vision pipeline to extract the different tranches of the books to extract their location in the image. The extracted tranches were then analyzed with an optical character recognition algorithm to identify them through the Google books API.  
